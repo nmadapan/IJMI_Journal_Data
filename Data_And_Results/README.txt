@@ -1,6 +1,3 @@
-# gestural_PACS
-This repository contains a database of annotated  gestures designed by Surgeons for a PACS
-
 Parameters:
     Number of commands = 28
     Number of semantic descriptors = 55
